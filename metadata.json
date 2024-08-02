@@ -1,0 +1,49 @@
+{
+    "Constitution_of_India": {
+      "Sections": [
+        {
+          "part_number": "",
+          "part_name": "",
+          "chapters": [
+            {
+              "chapter_number": "",
+              "chapter_name": "",
+              "subparts": [
+                {
+                  "subpart_name": "",
+                  "articles": [
+                    {
+                      "article_number": "",
+                      "article_name": "",
+                      "article_content": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Schedules": [
+        {
+          "schedule_number": "",
+          "schedule_name": "",
+          "parts": [
+            {
+              "part_number": "",
+              "part_name": "",
+              "schedule_content": ""
+            }
+          ]
+        }
+      ],
+      "Appendices": [
+        {
+          "appendix_number": "",
+          "appendix_name": "",
+          "appendix_content": ""
+        }
+      ]
+    }
+  }
+  
